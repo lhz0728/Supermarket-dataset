@@ -1,4 +1,4 @@
-# Sale dataset
+# Vegetables sale dataset
 
-A sale data in a supermarket in China, Zhejiang, Hangzhou.
+A sale data of vegetables in a supermarket in China, Zhejiang, Hangzhou.
 
